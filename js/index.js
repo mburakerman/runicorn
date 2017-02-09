@@ -39,7 +39,6 @@ function preload() {
   press_sound = loadSound('sounds/press.mp3');
   hit_sound = loadSound('sounds/hit.mp3');
   reached_sound = loadSound('sounds/reached.mp3');
-  reached_sound = loadSound('sounds/reached.mp3');
 }
 
 function Start_Button() {
