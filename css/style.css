@@ -40,6 +40,9 @@ body {
   -webkit-animation: shine 3s linear infinite;
   animation: shine 3s linear infinite;
 }
+.title a {
+  text-decoration:none;
+}
 @-webkit-keyframes shine {
   to {
     background-position: 200% center;
